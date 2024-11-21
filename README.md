@@ -1,8 +1,8 @@
  # CREATION IN WEB APPLICATION FOR TEST ENVIRONMENT
-  ## AIM
-       To Creation in Web Application for Test Environment.
+## AIM
+To Creation in Web Application for Test Environment.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
+Creating a web application for a test environment is essential to provide developers and testers with a dedicated platform to simulate, test, and validate software functionalities. The challenge lies in building an easy-to-use, scalable, and efficient application that supports realistic testing scenarios, automates workflows, and ensures smooth collaboration while minimizing setup and maintenance efforts.
 
 ## ALGORITHM
  ### Steps 1: 
